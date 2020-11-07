@@ -5,5 +5,4 @@ Retinal abnormalities are the second big reason of blindness after Cataract. A r
 
 ![unet](https://user-images.githubusercontent.com/56618776/98434736-a4eda680-2115-11eb-8bb4-cfe0911fca1b.PNG)
 
-##Results
 ![res](https://user-images.githubusercontent.com/56618776/98434746-b59e1c80-2115-11eb-9cb4-9e8fa7374fb6.PNG)
